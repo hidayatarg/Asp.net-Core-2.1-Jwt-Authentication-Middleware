@@ -7,7 +7,7 @@ I have explained the about the Jwt token based authentication system in the http
 
 A middleware is nothing but a component (class) which is executed on every request in ASP.NET Core application. In the classic ASP.NET, HttpHandlers and HttpModules were part of request pipeline. Middleware is similar to HttpHandlers and HttpModules where both needs to be configured and executed in each request.
 
-Typically, there will be multiple middleware in ASP.NET Core web application. It can be either framework provided middleware, added via NuGet or your own custom middleware. We can set the order of middleware execution in the request pipeline. 
+Typically, there will be multiple middleware in ASP.NET Core web application. It can be either framework provided middleware, added via NuGet or your own custom middleware. We can set the order of middleware execution in the request pipeline. visit www.tutorialsteacher.com for more explaintion
 
 ![](http://www.tutorialsteacher.com/Content/images/core/middleware-1.png)
 
